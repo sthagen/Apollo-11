@@ -1,6 +1,6 @@
 "Type: Proof":
-  - Comanche055/*.*
-  - Luminary099/*.*
+  - "**/*.agc"
 "Type: Meta":
-  - README.*
-  - CONTRIBUTING.*
+  - "**/MAIN.agc"
+  - "**/*.md"
+  - "*.md"
